@@ -52,4 +52,6 @@ N.B. gli appuntamenti sono stati divisi tra lezioni vere e proprie, chiacchierat
 ## Link utili:
 
 - A [questo link](https://docs.conda.io/projects/miniconda/en/latest/) trovate gli script per installare e configurare Miniconda3 nei vostri sistemi.
-- Il [conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf) è un documento più che sufficiente per la maggior parte delle domande del tipo "ma com'è che si faceva sta cosa in conda?" (tipo che io ce l'ho stampato e appeso di fronte al piccì: [foto-prova]()) 
+- Il [conda cheat sheet](https://docs.conda.io/projects/conda/en/latest/_downloads/843d9e0198f2a193a3484886fa28163c/conda-cheatsheet.pdf) è un documento più che sufficiente per la maggior parte delle domande del tipo "ma com'è che si faceva sta cosa in conda?" (tipo che io ce l'ho stampato e appeso di fronte al piccì)
+
+![foto-prova](datasets/scrivania.png)
