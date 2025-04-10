@@ -10,7 +10,7 @@ In particular, we want to create a new type for handling [**RATIONAL NUMBERS**](
 
 > **NOTE THAT** we did not see any external library in this course but the python standard library is enough to accomplish this assignment, therefore external libraries are forbidden!
 > you can use whatever python standard library you want though (some allowed imports are, e.g., ``math``, ``itertools``, ``importlib``, ``sys``, imports NOT allowed are, e.g., ``numpy`` and ``scipy``).
-> I do not like to be mean (ok, I like to be mean, but this is not the case), the reason is simple: sometimes in programming it is better to minimise the number of external dependencies. Less external dependencies mean more cross-platform compatibility. Furthermore, everything that is standard python is compatible to be used with other libraries, and the more pythonic you are, the more functionalities you unlock.
+> I do not like to be mean (ok, I like to be mean, but this is not the case), the reason is simple: sometimes in programming it is better to minimise the number of external dependencies. Less external dependencies means more cross-platform compatibility. Furthermore, everything that is standard python is compatible to be used with other libraries, and the more pythonic you are, the more functionalities you unlock.
 
 ## Deliverable
 
@@ -20,7 +20,7 @@ Conceptually, this could be simply hosted in a module, but if you are using othe
 * You must give me some explanation of what is going on and of your choices, so, write a report describing the solution.
   - Ideally you will create a sub-directory: ``exercise4_classes/solution/``
   - inside the sub-directory you will write a ``readme.md`` so that I can check it directly in your github forked repository
-  - a jupyter notebook (even though not readable from github, would be fine as well, check last point of this list)
+  - a jupyter notebook
 
 * The class you are going to write will have to have the following characteristics
   - a constructor (``__init__``) taking
